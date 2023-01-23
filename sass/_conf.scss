@@ -1,0 +1,16 @@
+$bg-100: hsl(257, 40%, 49%);
+$bg-200: hsl(300, 69%, 71%);
+
+$ff-100 : 'Poppins', sans-serif;
+$ff-200 : 'Open Sans', sans-serif;
+
+$fw-400 : 400;
+$fw-600 : 600;
+
+
+.bg-100{background: $bg-100;}
+.bg-200{background: $bg-200;}
+
+.font-100-400{font-family: $ff-100;font-weight: $fw-400;color:white}
+.font-100-600{font-family: $ff-100;font-weight: $fw-600;color:white}
+.font-200-400{font-family: $ff-200;font-weight: $fw-400;color:white}
